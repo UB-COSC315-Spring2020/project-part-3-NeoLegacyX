@@ -1,0 +1,3584 @@
+fileFormatVersion: 2
+guid: c0ea8ce267f91464584bd4fb00b2b5d7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5938563082921507248
+    second: Game Boy Advance - Sonic Advance 3 - Sunset Hill_0
+  - first:
+      213: -510576611446158436
+    second: Game Boy Advance - Sonic Advance 3 - Sunset Hill_1
+  - first:
+      213: 3025292055166362997
+    second: Game Boy Advance - Sonic Advance 3 - Sunset Hill_2
+  - first:
+      213: 4043285147084231511
+    second: Game Boy Advance - Sonic Advance 3 - Sunset Hill_3
+  - first:
+      213: 2670943531412097961
+    second: Game Boy Advance - Sonic Advance 3 - Sunset Hill_4
+  - first:
+      213: 5917255654728205035
+    second: Game Boy Advance - Sonic Advance 3 - Sunset Hill_5
+  - first:
+      213: 7170140270902819390
+    second: Game Boy Advance - Sonic Advance 3 - Sunset Hill_6
+  - first:
+      213: -128095834587671993
+    second: Game Boy Advance - Sonic Advance 3 - Sunset Hill_7
+  - first:
+      213: -2742779889364778417
+    second: Game Boy Advance - Sonic Advance 3 - Sunset Hill_8
+  - first:
+      213: -6185218167708232862
+    second: Game Boy Advance - Sonic Advance 3 - Sunset Hill_9
+  - first:
+      213: 6509137787059673883
+    second: Game Boy Advance - Sonic Advance 3 - Sunset Hill_10
+  - first:
+      213: 7115002838124089047
+    second: Game Boy Advance - Sonic Advance 3 - Sunset Hill_11
+  - first:
+      213: 8194419337902440556
+    second: Game Boy Advance - Sonic Advance 3 - Sunset Hill_12
+  - first:
+      213: -5096843544748343721
+    second: Game Boy Advance - Sonic Advance 3 - Sunset Hill_13
+  - first:
+      213: 6873707548372065898
+    second: Game Boy Advance - Sonic Advance 3 - Sunset Hill_14
+  - first:
+      213: 9015112932662264835
+    second: Game Boy Advance - Sonic Advance 3 - Sunset Hill_15
+  - first:
+      213: 2307386693575468866
+    second: Game Boy Advance - Sonic Advance 3 - Sunset Hill_16
+  - first:
+      213: -8434378459467023026
+    second: Game Boy Advance - Sonic Advance 3 - Sunset Hill_17
+  - first:
+      213: -4247953622487057062
+    second: Game Boy Advance - Sonic Advance 3 - Sunset Hill_18
+  - first:
+      213: -1200170411667379052
+    second: Game Boy Advance - Sonic Advance 3 - Sunset Hill_19
+  - first:
+      213: 4419796070959142148
+    second: Game Boy Advance - Sonic Advance 3 - Sunset Hill_20
+  - first:
+      213: 5264281848144761004
+    second: Game Boy Advance - Sonic Advance 3 - Sunset Hill_21
+  - first:
+      213: -5562149630793237631
+    second: Game Boy Advance - Sonic Advance 3 - Sunset Hill_22
+  - first:
+      213: 4863483073205680280
+    second: Game Boy Advance - Sonic Advance 3 - Sunset Hill_23
+  - first:
+      213: 1674137987809754197
+    second: Game Boy Advance - Sonic Advance 3 - Sunset Hill_24
+  - first:
+      213: 7923239766239917222
+    second: Game Boy Advance - Sonic Advance 3 - Sunset Hill_25
+  - first:
+      213: 7305194838709756835
+    second: Game Boy Advance - Sonic Advance 3 - Sunset Hill_26
+  - first:
+      213: -90068679128480670
+    second: Game Boy Advance - Sonic Advance 3 - Sunset Hill_27
+  - first:
+      213: -4851753548325637789
+    second: Game Boy Advance - Sonic Advance 3 - Sunset Hill_28
+  - first:
+      213: -3728172434484761727
+    second: Game Boy Advance - Sonic Advance 3 - Sunset Hill_29
+  - first:
+      213: -5859491214478225778
+    second: Game Boy Advance - Sonic Advance 3 - Sunset Hill_30
+  - first:
+      213: -1932283193199842783
+    second: Game Boy Advance - Sonic Advance 3 - Sunset Hill_31
+  - first:
+      213: 2575630728006770975
+    second: Game Boy Advance - Sonic Advance 3 - Sunset Hill_32
+  - first:
+      213: -2510079958000207206
+    second: Game Boy Advance - Sonic Advance 3 - Sunset Hill_33
+  - first:
+      213: 4976802369900613568
+    second: Game Boy Advance - Sonic Advance 3 - Sunset Hill_34
+  - first:
+      213: -8413514761905022346
+    second: Game Boy Advance - Sonic Advance 3 - Sunset Hill_35
+  - first:
+      213: 1436408916048377443
+    second: Game Boy Advance - Sonic Advance 3 - Sunset Hill_36
+  - first:
+      213: 110619819121175060
+    second: Game Boy Advance - Sonic Advance 3 - Sunset Hill_37
+  - first:
+      213: -8859596466537930311
+    second: Game Boy Advance - Sonic Advance 3 - Sunset Hill_38
+  - first:
+      213: -5575796925834095528
+    second: Game Boy Advance - Sonic Advance 3 - Sunset Hill_39
+  - first:
+      213: 2921259362537206153
+    second: Game Boy Advance - Sonic Advance 3 - Sunset Hill_40
+  - first:
+      213: -6772899064477938927
+    second: Game Boy Advance - Sonic Advance 3 - Sunset Hill_41
+  - first:
+      213: 5975943425286690332
+    second: Game Boy Advance - Sonic Advance 3 - Sunset Hill_42
+  - first:
+      213: 7046820795786054745
+    second: Game Boy Advance - Sonic Advance 3 - Sunset Hill_43
+  - first:
+      213: -339126940018007244
+    second: Game Boy Advance - Sonic Advance 3 - Sunset Hill_44
+  - first:
+      213: -7877276196742602094
+    second: Game Boy Advance - Sonic Advance 3 - Sunset Hill_45
+  - first:
+      213: -5103954721971447765
+    second: Game Boy Advance - Sonic Advance 3 - Sunset Hill_46
+  - first:
+      213: -3696463758277181555
+    second: Game Boy Advance - Sonic Advance 3 - Sunset Hill_47
+  - first:
+      213: 8627027042828960503
+    second: Game Boy Advance - Sonic Advance 3 - Sunset Hill_48
+  - first:
+      213: -7436938004758776884
+    second: Game Boy Advance - Sonic Advance 3 - Sunset Hill_49
+  - first:
+      213: -5779379802587797862
+    second: Game Boy Advance - Sonic Advance 3 - Sunset Hill_50
+  - first:
+      213: -5181189389697022519
+    second: Game Boy Advance - Sonic Advance 3 - Sunset Hill_51
+  - first:
+      213: 9068501045910145351
+    second: Game Boy Advance - Sonic Advance 3 - Sunset Hill_52
+  - first:
+      213: 7414866028711438306
+    second: Game Boy Advance - Sonic Advance 3 - Sunset Hill_53
+  - first:
+      213: 1278173011678107635
+    second: Game Boy Advance - Sonic Advance 3 - Sunset Hill_54
+  - first:
+      213: -4904338451409988421
+    second: Game Boy Advance - Sonic Advance 3 - Sunset Hill_55
+  - first:
+      213: -105536496849043941
+    second: Game Boy Advance - Sonic Advance 3 - Sunset Hill_56
+  - first:
+      213: -1468538201224418748
+    second: Game Boy Advance - Sonic Advance 3 - Sunset Hill_57
+  - first:
+      213: -3930694071145473489
+    second: Game Boy Advance - Sonic Advance 3 - Sunset Hill_58
+  - first:
+      213: 6527062996422807167
+    second: Game Boy Advance - Sonic Advance 3 - Sunset Hill_59
+  - first:
+      213: -776057971746859732
+    second: Game Boy Advance - Sonic Advance 3 - Sunset Hill_60
+  - first:
+      213: -2798504937020607232
+    second: Game Boy Advance - Sonic Advance 3 - Sunset Hill_61
+  - first:
+      213: 5379734362788396183
+    second: Game Boy Advance - Sonic Advance 3 - Sunset Hill_62
+  - first:
+      213: -8461340768658587715
+    second: Game Boy Advance - Sonic Advance 3 - Sunset Hill_63
+  - first:
+      213: -6595628245519866894
+    second: Game Boy Advance - Sonic Advance 3 - Sunset Hill_64
+  - first:
+      213: -8524736277359137676
+    second: Game Boy Advance - Sonic Advance 3 - Sunset Hill_65
+  - first:
+      213: -3683366735339276865
+    second: Game Boy Advance - Sonic Advance 3 - Sunset Hill_66
+  - first:
+      213: -5892923637569880187
+    second: Game Boy Advance - Sonic Advance 3 - Sunset Hill_67
+  - first:
+      213: -1218978522764733662
+    second: Game Boy Advance - Sonic Advance 3 - Sunset Hill_68
+  - first:
+      213: 5984871919401726009
+    second: Game Boy Advance - Sonic Advance 3 - Sunset Hill_69
+  - first:
+      213: -5107501791350166471
+    second: Game Boy Advance - Sonic Advance 3 - Sunset Hill_70
+  - first:
+      213: -3204413327002464793
+    second: Game Boy Advance - Sonic Advance 3 - Sunset Hill_71
+  - first:
+      213: -5317813990482976481
+    second: Game Boy Advance - Sonic Advance 3 - Sunset Hill_72
+  - first:
+      213: -6491427619221565250
+    second: Game Boy Advance - Sonic Advance 3 - Sunset Hill_73
+  - first:
+      213: -7170915521196170602
+    second: Game Boy Advance - Sonic Advance 3 - Sunset Hill_74
+  - first:
+      213: 4044582956131407617
+    second: Game Boy Advance - Sonic Advance 3 - Sunset Hill_75
+  - first:
+      213: -2047814133992113578
+    second: Game Boy Advance - Sonic Advance 3 - Sunset Hill_76
+  - first:
+      213: 8923116728678866846
+    second: Game Boy Advance - Sonic Advance 3 - Sunset Hill_77
+  - first:
+      213: -2142580228183809247
+    second: Game Boy Advance - Sonic Advance 3 - Sunset Hill_78
+  - first:
+      213: -1602111718353878423
+    second: Game Boy Advance - Sonic Advance 3 - Sunset Hill_79
+  - first:
+      213: -7865330868037446282
+    second: Game Boy Advance - Sonic Advance 3 - Sunset Hill_80
+  - first:
+      213: -1857690257068746803
+    second: Game Boy Advance - Sonic Advance 3 - Sunset Hill_81
+  - first:
+      213: -4312992678032837527
+    second: Game Boy Advance - Sonic Advance 3 - Sunset Hill_82
+  - first:
+      213: 253586151233029115
+    second: Game Boy Advance - Sonic Advance 3 - Sunset Hill_83
+  - first:
+      213: 7982051301373464132
+    second: Game Boy Advance - Sonic Advance 3 - Sunset Hill_84
+  - first:
+      213: -4697666091903516121
+    second: Game Boy Advance - Sonic Advance 3 - Sunset Hill_85
+  - first:
+      213: -4949972236170236289
+    second: Game Boy Advance - Sonic Advance 3 - Sunset Hill_86
+  - first:
+      213: 165835527003982837
+    second: Game Boy Advance - Sonic Advance 3 - Sunset Hill_87
+  - first:
+      213: 122773353891164495
+    second: Game Boy Advance - Sonic Advance 3 - Sunset Hill_88
+  - first:
+      213: 8562295177346283417
+    second: Game Boy Advance - Sonic Advance 3 - Sunset Hill_89
+  - first:
+      213: -5142393742048076501
+    second: Game Boy Advance - Sonic Advance 3 - Sunset Hill_90
+  - first:
+      213: -7311539189729990235
+    second: Game Boy Advance - Sonic Advance 3 - Sunset Hill_91
+  - first:
+      213: 108148430908744270
+    second: Game Boy Advance - Sonic Advance 3 - Sunset Hill_92
+  - first:
+      213: 4744125734661678809
+    second: Game Boy Advance - Sonic Advance 3 - Sunset Hill_93
+  - first:
+      213: 6227637491482733777
+    second: Game Boy Advance - Sonic Advance 3 - Sunset Hill_94
+  - first:
+      213: 7984067759410964202
+    second: Game Boy Advance - Sonic Advance 3 - Sunset Hill_95
+  - first:
+      213: -1542123150885787917
+    second: Game Boy Advance - Sonic Advance 3 - Sunset Hill_96
+  - first:
+      213: -4016435613336578121
+    second: Game Boy Advance - Sonic Advance 3 - Sunset Hill_97
+  - first:
+      213: -3528922130627953339
+    second: Game Boy Advance - Sonic Advance 3 - Sunset Hill_98
+  - first:
+      213: -605197922261317877
+    second: Game Boy Advance - Sonic Advance 3 - Sunset Hill_99
+  - first:
+      213: 8544182722656146650
+    second: Game Boy Advance - Sonic Advance 3 - Sunset Hill_100
+  - first:
+      213: 4245115562764651987
+    second: Game Boy Advance - Sonic Advance 3 - Sunset Hill_101
+  - first:
+      213: 1735490853405543818
+    second: Game Boy Advance - Sonic Advance 3 - Sunset Hill_102
+  - first:
+      213: 4840243417841379678
+    second: Game Boy Advance - Sonic Advance 3 - Sunset Hill_103
+  - first:
+      213: 7839219711926318707
+    second: Game Boy Advance - Sonic Advance 3 - Sunset Hill_104
+  - first:
+      213: 2325397917421463897
+    second: Game Boy Advance - Sonic Advance 3 - Sunset Hill_105
+  - first:
+      213: -7599482894353665095
+    second: Game Boy Advance - Sonic Advance 3 - Sunset Hill_106
+  - first:
+      213: 893618701750486560
+    second: Game Boy Advance - Sonic Advance 3 - Sunset Hill_107
+  - first:
+      213: -81813886139829269
+    second: Game Boy Advance - Sonic Advance 3 - Sunset Hill_108
+  - first:
+      213: 5403445716514722528
+    second: Game Boy Advance - Sonic Advance 3 - Sunset Hill_109
+  - first:
+      213: -3691384425378862359
+    second: Game Boy Advance - Sonic Advance 3 - Sunset Hill_110
+  - first:
+      213: 2195562278029901998
+    second: Game Boy Advance - Sonic Advance 3 - Sunset Hill_111
+  - first:
+      213: 3629817530622501686
+    second: Game Boy Advance - Sonic Advance 3 - Sunset Hill_112
+  - first:
+      213: 5194464061069348117
+    second: Game Boy Advance - Sonic Advance 3 - Sunset Hill_113
+  - first:
+      213: -5848737764307339367
+    second: Game Boy Advance - Sonic Advance 3 - Sunset Hill_114
+  - first:
+      213: -6447189502698061640
+    second: Game Boy Advance - Sonic Advance 3 - Sunset Hill_115
+  - first:
+      213: 2047502522223579515
+    second: Game Boy Advance - Sonic Advance 3 - Sunset Hill_116
+  - first:
+      213: -7832590532777155403
+    second: Game Boy Advance - Sonic Advance 3 - Sunset Hill_117
+  - first:
+      213: -3176314581430461192
+    second: Game Boy Advance - Sonic Advance 3 - Sunset Hill_118
+  - first:
+      213: -7178376899180752816
+    second: Game Boy Advance - Sonic Advance 3 - Sunset Hill_119
+  - first:
+      213: 2964682009380424316
+    second: Game Boy Advance - Sonic Advance 3 - Sunset Hill_120
+  - first:
+      213: 8740253322240287171
+    second: Game Boy Advance - Sonic Advance 3 - Sunset Hill_121
+  - first:
+      213: -3646922665581604303
+    second: Game Boy Advance - Sonic Advance 3 - Sunset Hill_122
+  - first:
+      213: -8948025470438077388
+    second: Game Boy Advance - Sonic Advance 3 - Sunset Hill_123
+  - first:
+      213: -2225469256085506882
+    second: Game Boy Advance - Sonic Advance 3 - Sunset Hill_124
+  - first:
+      213: 3022449086437065541
+    second: Game Boy Advance - Sonic Advance 3 - Sunset Hill_125
+  - first:
+      213: -8904819867009856264
+    second: Game Boy Advance - Sonic Advance 3 - Sunset Hill_126
+  - first:
+      213: 1347586349876068186
+    second: Game Boy Advance - Sonic Advance 3 - Sunset Hill_127
+  - first:
+      213: -3114250592793051484
+    second: Game Boy Advance - Sonic Advance 3 - Sunset Hill_128
+  - first:
+      213: -2686234650296232826
+    second: Game Boy Advance - Sonic Advance 3 - Sunset Hill_129
+  - first:
+      213: -4497669958928751852
+    second: Game Boy Advance - Sonic Advance 3 - Sunset Hill_130
+  - first:
+      213: -6902912710832946128
+    second: Game Boy Advance - Sonic Advance 3 - Sunset Hill_131
+  - first:
+      213: -1173735345777662409
+    second: Game Boy Advance - Sonic Advance 3 - Sunset Hill_132
+  - first:
+      213: -4851660982075732640
+    second: Game Boy Advance - Sonic Advance 3 - Sunset Hill_133
+  - first:
+      213: -7737104974097653704
+    second: Game Boy Advance - Sonic Advance 3 - Sunset Hill_134
+  - first:
+      213: 3802401993064386144
+    second: Game Boy Advance - Sonic Advance 3 - Sunset Hill_135
+  - first:
+      213: 6926308281373612603
+    second: Game Boy Advance - Sonic Advance 3 - Sunset Hill_136
+  - first:
+      213: 4303160688941764568
+    second: Game Boy Advance - Sonic Advance 3 - Sunset Hill_137
+  - first:
+      213: -3772467815227375647
+    second: Game Boy Advance - Sonic Advance 3 - Sunset Hill_138
+  - first:
+      213: 9196158387233048698
+    second: Game Boy Advance - Sonic Advance 3 - Sunset Hill_139
+  - first:
+      213: -9213757770931910477
+    second: Game Boy Advance - Sonic Advance 3 - Sunset Hill_140
+  - first:
+      213: -4016207666260109177
+    second: Game Boy Advance - Sonic Advance 3 - Sunset Hill_141
+  - first:
+      213: 5890866236770540158
+    second: Game Boy Advance - Sonic Advance 3 - Sunset Hill_142
+  - first:
+      213: 2280708043020863264
+    second: Game Boy Advance - Sonic Advance 3 - Sunset Hill_143
+  - first:
+      213: -4899849528414915860
+    second: Game Boy Advance - Sonic Advance 3 - Sunset Hill_144
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Game Boy Advance - Sonic Advance 3 - Sunset Hill_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 739
+        width: 240
+        height: 193
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b9f8c9f8a30a6250800000000000000
+      internalID: 5938563082921507248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Sonic Advance 3 - Sunset Hill_1
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 789
+        width: 444
+        height: 143
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9b012ce6411ae8f0800000000000000
+      internalID: -510576611446158436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Sonic Advance 3 - Sunset Hill_2
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 755
+        width: 43
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 575a002781ffbf920800000000000000
+      internalID: 3025292055166362997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Sonic Advance 3 - Sunset Hill_3
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 755
+        width: 43
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75391954b62ac1830800000000000000
+      internalID: 4043285147084231511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Sonic Advance 3 - Sunset Hill_4
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 755
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ab02f49df8111520800000000000000
+      internalID: 2670943531412097961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Sonic Advance 3 - Sunset Hill_5
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 755
+        width: 34
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be20f31caa05e1250800000000000000
+      internalID: 5917255654728205035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Sonic Advance 3 - Sunset Hill_6
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 755
+        width: 33
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3ab2ec5694718360800000000000000
+      internalID: 7170140270902819390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Sonic Advance 3 - Sunset Hill_7
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 755
+        width: 32
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 742d1326489e83ef0800000000000000
+      internalID: -128095834587671993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Sonic Advance 3 - Sunset Hill_8
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 755
+        width: 25
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f42c355f830bfe9d0800000000000000
+      internalID: -2742779889364778417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Sonic Advance 3 - Sunset Hill_9
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 755
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 263557fd8d0b92aa0800000000000000
+      internalID: -6185218167708232862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Sonic Advance 3 - Sunset Hill_10
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 755
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1b93c7945a155a50800000000000000
+      internalID: 6509137787059673883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Sonic Advance 3 - Sunset Hill_11
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 755
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7de484662619db260800000000000000
+      internalID: 7115002838124089047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Sonic Advance 3 - Sunset Hill_12
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 755
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c604440d8fc68b170800000000000000
+      internalID: 8194419337902440556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Sonic Advance 3 - Sunset Hill_13
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 771
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75e388fdccf5449b0800000000000000
+      internalID: -5096843544748343721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Sonic Advance 3 - Sunset Hill_14
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 763
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6e53a6c890546f50800000000000000
+      internalID: 6873707548372065898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Sonic Advance 3 - Sunset Hill_15
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 755
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3044d59b27d1c1d70800000000000000
+      internalID: 9015112932662264835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Sonic Advance 3 - Sunset Hill_16
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 632
+        width: 240
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 247670609fb750020800000000000000
+      internalID: 2307386693575468866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Sonic Advance 3 - Sunset Hill_17
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 709
+        width: 25
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4df2467a7113fa80800000000000000
+      internalID: -8434378459467023026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Sonic Advance 3 - Sunset Hill_18
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 709
+        width: 26
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5d335ddfac3c05c0800000000000000
+      internalID: -4247953622487057062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Sonic Advance 3 - Sunset Hill_19
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 709
+        width: 25
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49ca1ae8e53285fe0800000000000000
+      internalID: -1200170411667379052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Sonic Advance 3 - Sunset Hill_20
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 709
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 405df250c15465d30800000000000000
+      internalID: 4419796070959142148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Sonic Advance 3 - Sunset Hill_21
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 709
+        width: 26
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca09434137c7e0940800000000000000
+      internalID: 5264281848144761004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Sonic Advance 3 - Sunset Hill_22
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 709
+        width: 26
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18bbffc51664fc2b0800000000000000
+      internalID: -5562149630793237631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Sonic Advance 3 - Sunset Hill_23
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 709
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 898bc8556109e7340800000000000000
+      internalID: 4863483073205680280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Sonic Advance 3 - Sunset Hill_24
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 709
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55c336441abbb3710800000000000000
+      internalID: 1674137987809754197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Sonic Advance 3 - Sunset Hill_25
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 709
+        width: 34
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a4baf8969005fd60800000000000000
+      internalID: 7923239766239917222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Sonic Advance 3 - Sunset Hill_26
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 709
+        width: 48
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a3ef405004416560800000000000000
+      internalID: 7305194838709756835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Sonic Advance 3 - Sunset Hill_27
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 709
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2648827730300cef0800000000000000
+      internalID: -90068679128480670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Sonic Advance 3 - Sunset Hill_28
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 671
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3613f4e7adb1bacb0800000000000000
+      internalID: -4851753548325637789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Sonic Advance 3 - Sunset Hill_29
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 671
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18be12d6ceed24cc0800000000000000
+      internalID: -3728172434484761727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Sonic Advance 3 - Sunset Hill_30
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 671
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8ec08c09c7eeaea0800000000000000
+      internalID: -5859491214478225778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Sonic Advance 3 - Sunset Hill_31
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 671
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12aadd76ca62f25e0800000000000000
+      internalID: -1932283193199842783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Sonic Advance 3 - Sunset Hill_32
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 671
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f11ac67308a7eb320800000000000000
+      internalID: 2575630728006770975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Sonic Advance 3 - Sunset Hill_33
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 678
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9af191c3976a2dd0800000000000000
+      internalID: -2510079958000207206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Sonic Advance 3 - Sunset Hill_34
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 678
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cf8f3f1367211540800000000000000
+      internalID: 4976802369900613568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Sonic Advance 3 - Sunset Hill_35
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 681
+        width: 32
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67a552896e03d3b80800000000000000
+      internalID: -8413514761905022346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Sonic Advance 3 - Sunset Hill_36
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 682
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36674497c462fe310800000000000000
+      internalID: 1436408916048377443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Sonic Advance 3 - Sunset Hill_37
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 684
+        width: 34
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41ae5dfa320098100800000000000000
+      internalID: 110619819121175060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Sonic Advance 3 - Sunset Hill_38
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 683
+        width: 30
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b163be24f36c0580800000000000000
+      internalID: -8859596466537930311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Sonic Advance 3 - Sunset Hill_39
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 678
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85491ffdc3ace92b0800000000000000
+      internalID: -5575796925834095528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Sonic Advance 3 - Sunset Hill_40
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 671
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98170d8a9e56a8820800000000000000
+      internalID: 2921259362537206153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Sonic Advance 3 - Sunset Hill_41
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 671
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11b873a6f24d102a0800000000000000
+      internalID: -6772899064477938927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Sonic Advance 3 - Sunset Hill_42
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 671
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c165b0622e0dee250800000000000000
+      internalID: 5975943425286690332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Sonic Advance 3 - Sunset Hill_43
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 671
+        width: 22
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95cc9a89d265bc160800000000000000
+      internalID: 7046820795786054745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Sonic Advance 3 - Sunset Hill_44
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 654
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 433267648dd2b4bf0800000000000000
+      internalID: -339126940018007244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Sonic Advance 3 - Sunset Hill_45
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 638
+        width: 28
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 292648fd80b4ea290800000000000000
+      internalID: -7877276196742602094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Sonic Advance 3 - Sunset Hill_46
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 638
+        width: 29
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b28d637e83c1b29b0800000000000000
+      internalID: -5103954721971447765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Sonic Advance 3 - Sunset Hill_47
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 638
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8f78caebc583bcc0800000000000000
+      internalID: -3696463758277181555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Sonic Advance 3 - Sunset Hill_48
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 638
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f24283336b59b770800000000000000
+      internalID: 8627027042828960503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Sonic Advance 3 - Sunset Hill_49
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 638
+        width: 25
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc330c98940bac890800000000000000
+      internalID: -7436938004758776884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Sonic Advance 3 - Sunset Hill_50
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 638
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a96efa4a0b48bcfa0800000000000000
+      internalID: -5779379802587797862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Sonic Advance 3 - Sunset Hill_51
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 638
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c5061183b7b818b0800000000000000
+      internalID: -5181189389697022519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Sonic Advance 3 - Sunset Hill_52
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 638
+        width: 30
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7498bbe77a9c9dd70800000000000000
+      internalID: 9068501045910145351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Sonic Advance 3 - Sunset Hill_53
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 638
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e7e4721e55e6e660800000000000000
+      internalID: 7414866028711438306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Sonic Advance 3 - Sunset Hill_54
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 638
+        width: 30
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f79092059bfcb110800000000000000
+      internalID: 1278173011678107635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Sonic Advance 3 - Sunset Hill_55
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 638
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb41b69a92a40fbb0800000000000000
+      internalID: -4904338451409988421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Sonic Advance 3 - Sunset Hill_56
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 653
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1e39728d1f098ef0800000000000000
+      internalID: -105536496849043941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Sonic Advance 3 - Sunset Hill_57
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 638
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44a6de06944be9be0800000000000000
+      internalID: -1468538201224418748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Sonic Advance 3 - Sunset Hill_58
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 642
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2ad3a8619e5379c0800000000000000
+      internalID: -3930694071145473489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Sonic Advance 3 - Sunset Hill_59
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 558
+        width: 137
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7ec060a639c49a50800000000000000
+      internalID: 6527062996422807167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Sonic Advance 3 - Sunset Hill_60
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 580
+        width: 17
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c251bece263ea35f0800000000000000
+      internalID: -776057971746859732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Sonic Advance 3 - Sunset Hill_61
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 620
+        width: 35
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 005b5be3696b929d0800000000000000
+      internalID: -2798504937020607232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Sonic Advance 3 - Sunset Hill_62
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 580
+        width: 17
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79cf6ff56e7a8aa40800000000000000
+      internalID: 5379734362788396183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Sonic Advance 3 - Sunset Hill_63
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 568
+        width: 92
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbff298a667439a80800000000000000
+      internalID: -8461340768658587715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Sonic Advance 3 - Sunset Hill_64
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 604
+        width: 192
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f3614b4e0f9774a0800000000000000
+      internalID: -6595628245519866894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Sonic Advance 3 - Sunset Hill_65
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 605
+        width: 192
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47c6f10958d02b980800000000000000
+      internalID: -8524736277359137676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Sonic Advance 3 - Sunset Hill_66
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 456
+        width: 192
+        height: 145
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb5bc92387d02ecc0800000000000000
+      internalID: -3683366735339276865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Sonic Advance 3 - Sunset Hill_67
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 593
+        width: 160
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58ff4267c21283ea0800000000000000
+      internalID: -5892923637569880187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Sonic Advance 3 - Sunset Hill_68
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 559
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22317c1fd71551fe0800000000000000
+      internalID: -1218978522764733662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Sonic Advance 3 - Sunset Hill_69
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 568
+        width: 36
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 930762e2d498e0350800000000000000
+      internalID: 5984871919401726009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Sonic Advance 3 - Sunset Hill_70
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 559
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93ce6e47e228e19b0800000000000000
+      internalID: -5107501791350166471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Sonic Advance 3 - Sunset Hill_71
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 445
+        width: 16
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ed8d7a8e03a783d0800000000000000
+      internalID: -3204413327002464793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Sonic Advance 3 - Sunset Hill_72
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 525
+        width: 72
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f11e8a3c9545336b0800000000000000
+      internalID: -5317813990482976481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Sonic Advance 3 - Sunset Hill_73
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 525
+        width: 72
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb0932f29f0d9e5a0800000000000000
+      internalID: -6491427619221565250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Sonic Advance 3 - Sunset Hill_74
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 514
+        width: 49
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69264cc935acb7c90800000000000000
+      internalID: -7170915521196170602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Sonic Advance 3 - Sunset Hill_75
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 457
+        width: 8
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 107dfccf4ce312830800000000000000
+      internalID: 4044582956131407617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Sonic Advance 3 - Sunset Hill_76
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 521
+        width: 8
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65a306915e3b493e0800000000000000
+      internalID: -2047814133992113578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Sonic Advance 3 - Sunset Hill_77
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 521
+        width: 8
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9fdf36536745db70800000000000000
+      internalID: 8923116728678866846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Sonic Advance 3 - Sunset Hill_78
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 533
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 123245462a60442e0800000000000000
+      internalID: -2142580228183809247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Sonic Advance 3 - Sunset Hill_79
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 457
+        width: 16
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 962c60961e724c9e0800000000000000
+      internalID: -1602111718353878423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Sonic Advance 3 - Sunset Hill_80
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 456
+        width: 32
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67596b17f3bb8d290800000000000000
+      internalID: -7865330868037446282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Sonic Advance 3 - Sunset Hill_81
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 485
+        width: 48
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc796bcbd882836e0800000000000000
+      internalID: -1857690257068746803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Sonic Advance 3 - Sunset Hill_82
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 457
+        width: 24
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 964fdf2b20c2524c0800000000000000
+      internalID: -4312992678032837527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Sonic Advance 3 - Sunset Hill_83
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 499
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf30430d24be48300800000000000000
+      internalID: 253586151233029115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Sonic Advance 3 - Sunset Hill_84
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 499
+        width: 35
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44e4f4d2e51f5ce60800000000000000
+      internalID: 7982051301373464132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Sonic Advance 3 - Sunset Hill_85
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 499
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72281b624998eceb0800000000000000
+      internalID: -4697666091903516121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Sonic Advance 3 - Sunset Hill_86
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 499
+        width: 40
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7ee60f2a7a2e4bb0800000000000000
+      internalID: -4949972236170236289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Sonic Advance 3 - Sunset Hill_87
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 445
+        width: 72
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fb463e788a2d4200800000000000000
+      internalID: 165835527003982837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Sonic Advance 3 - Sunset Hill_88
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 445
+        width: 72
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f41f09207bd24b100800000000000000
+      internalID: 122773353891164495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Sonic Advance 3 - Sunset Hill_89
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 457
+        width: 48
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 997f3cb491263d670800000000000000
+      internalID: 8562295177346283417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Sonic Advance 3 - Sunset Hill_90
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 457
+        width: 32
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2d580e132c82a8b0800000000000000
+      internalID: -5142393742048076501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Sonic Advance 3 - Sunset Hill_91
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 457
+        width: 32
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a9ebca58d1388a90800000000000000
+      internalID: -7311539189729990235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Sonic Advance 3 - Sunset Hill_92
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 457
+        width: 41
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e42e457cc68308100800000000000000
+      internalID: 108148430908744270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Sonic Advance 3 - Sunset Hill_93
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 457
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d66c40683586d140800000000000000
+      internalID: 4744125734661678809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Sonic Advance 3 - Sunset Hill_94
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 457
+        width: 8
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dcabb59d430d6650800000000000000
+      internalID: 6227637491482733777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Sonic Advance 3 - Sunset Hill_95
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 457
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae6e656635b1dce60800000000000000
+      internalID: 7984067759410964202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Sonic Advance 3 - Sunset Hill_96
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 457
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f6eb8f2a27499ae0800000000000000
+      internalID: -1542123150885787917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Sonic Advance 3 - Sunset Hill_97
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 383
+        width: 40
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b758d3f611c248c0800000000000000
+      internalID: -4016435613336578121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Sonic Advance 3 - Sunset Hill_98
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 337
+        width: 72
+        height: 113
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54df7ebe400c60fc0800000000000000
+      internalID: -3528922130627953339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Sonic Advance 3 - Sunset Hill_99
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 418
+        width: 112
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b074fc832b7e997f0800000000000000
+      internalID: -605197922261317877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Sonic Advance 3 - Sunset Hill_100
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 418
+        width: 87
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad413ffcae8039670800000000000000
+      internalID: 8544182722656146650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Sonic Advance 3 - Sunset Hill_101
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 420
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ddc11ddc1ea9ea30800000000000000
+      internalID: 4245115562764651987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Sonic Advance 3 - Sunset Hill_102
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 413
+        width: 146
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8d4d247cb3b51810800000000000000
+      internalID: 1735490853405543818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Sonic Advance 3 - Sunset Hill_103
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 420
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e59abda6ebffb2340800000000000000
+      internalID: 4840243417841379678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Sonic Advance 3 - Sunset Hill_104
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 224
+        width: 192
+        height: 216
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 376bb954bc08acc60800000000000000
+      internalID: 7839219711926318707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Sonic Advance 3 - Sunset Hill_105
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 253
+        width: 48
+        height: 125
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 959e65dd519754020800000000000000
+      internalID: 2325397917421463897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Sonic Advance 3 - Sunset Hill_106
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 368
+        width: 96
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b374654296398690800000000000000
+      internalID: -7599482894353665095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Sonic Advance 3 - Sunset Hill_107
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 368
+        width: 16
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 026cb728975c66c00800000000000000
+      internalID: 893618701750486560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Sonic Advance 3 - Sunset Hill_108
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 368
+        width: 64
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be3f0fa34b65ddef0800000000000000
+      internalID: -81813886139829269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Sonic Advance 3 - Sunset Hill_109
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 316
+        width: 24
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e257ff1045ecfa40800000000000000
+      internalID: 5403445716514722528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Sonic Advance 3 - Sunset Hill_110
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 313
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ea22e34c6195ccc0800000000000000
+      internalID: -3691384425378862359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Sonic Advance 3 - Sunset Hill_111
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 303
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea048306244387e10800000000000000
+      internalID: 2195562278029901998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Sonic Advance 3 - Sunset Hill_112
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 317
+        width: 96
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6336d3000d3bf5230800000000000000
+      internalID: 3629817530622501686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Sonic Advance 3 - Sunset Hill_113
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 317
+        width: 24
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51d4296ca81761840800000000000000
+      internalID: 5194464061069348117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Sonic Advance 3 - Sunset Hill_114
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 317
+        width: 24
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9977c06cdfb15dea0800000000000000
+      internalID: -5848737764307339367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Sonic Advance 3 - Sunset Hill_115
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 317
+        width: 23
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b00e045e4bf686a0800000000000000
+      internalID: -6447189502698061640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Sonic Advance 3 - Sunset Hill_116
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 190
+        width: 36
+        height: 135
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b715ad122b03a6c10800000000000000
+      internalID: 2047502522223579515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Sonic Advance 3 - Sunset Hill_117
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 261
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b4eab6c86c0d4390800000000000000
+      internalID: -7832590532777155403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Sonic Advance 3 - Sunset Hill_118
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 266
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fc91fe87b67be3d0800000000000000
+      internalID: -3176314581430461192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Sonic Advance 3 - Sunset Hill_119
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 255
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 050167c2e38416c90800000000000000
+      internalID: -7178376899180752816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Sonic Advance 3 - Sunset Hill_120
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 255
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7a8c19749aa42920800000000000000
+      internalID: 2964682009380424316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Sonic Advance 3 - Sunset Hill_121
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 255
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c16f07b61e9b4970800000000000000
+      internalID: 8740253322240287171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Sonic Advance 3 - Sunset Hill_122
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 237
+        width: 189
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13210ba6827836dc0800000000000000
+      internalID: -3646922665581604303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Sonic Advance 3 - Sunset Hill_123
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 190
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43c04694e3a32d380800000000000000
+      internalID: -8948025470438077388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Sonic Advance 3 - Sunset Hill_124
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 201
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb4787ca08b8d11e0800000000000000
+      internalID: -2225469256085506882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Sonic Advance 3 - Sunset Hill_125
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 240
+        width: 48
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54309c43e65e1f920800000000000000
+      internalID: 3022449086437065541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Sonic Advance 3 - Sunset Hill_126
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 228
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fc490eb289bb6480800000000000000
+      internalID: -8904819867009856264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Sonic Advance 3 - Sunset Hill_127
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 228
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5f378835a693b210800000000000000
+      internalID: 1347586349876068186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Sonic Advance 3 - Sunset Hill_128
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 228
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ae350bf595f7c4d0800000000000000
+      internalID: -3114250592793051484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Sonic Advance 3 - Sunset Hill_129
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 201
+        width: 80
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6845fbd51d398bad0800000000000000
+      internalID: -2686234650296232826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Sonic Advance 3 - Sunset Hill_130
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 201
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4132b1580011591c0800000000000000
+      internalID: -4497669958928751852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Sonic Advance 3 - Sunset Hill_131
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 201
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0340643767de330a0800000000000000
+      internalID: -6902912710832946128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Sonic Advance 3 - Sunset Hill_132
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 201
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7362a96fbed06bfe0800000000000000
+      internalID: -1173735345777662409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Sonic Advance 3 - Sunset Hill_133
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 198
+        width: 192
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06dc0c0ca007bacb0800000000000000
+      internalID: -4851660982075732640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Sonic Advance 3 - Sunset Hill_134
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 3
+        width: 192
+        height: 216
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 830600dd40840a490800000000000000
+      internalID: -7737104974097653704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Sonic Advance 3 - Sunset Hill_135
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 125
+        width: 159
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06e07d97778d4c430800000000000000
+      internalID: 3802401993064386144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Sonic Advance 3 - Sunset Hill_136
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 114
+        width: 144
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3ade1c4fa03f1060800000000000000
+      internalID: 6926308281373612603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Sonic Advance 3 - Sunset Hill_137
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 114
+        width: 48
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8df8cc3f8d5e7bb30800000000000000
+      internalID: 4303160688941764568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Sonic Advance 3 - Sunset Hill_138
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 114
+        width: 192
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ef37ca628085abc0800000000000000
+      internalID: -3772467815227375647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Sonic Advance 3 - Sunset Hill_139
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 3
+        width: 96
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a78414174515f9f70800000000000000
+      internalID: 9196158387233048698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Sonic Advance 3 - Sunset Hill_140
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 3
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b8cb19bf18222080800000000000000
+      internalID: -9213757770931910477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Sonic Advance 3 - Sunset Hill_141
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 3
+        width: 48
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7889d5408609348c0800000000000000
+      internalID: -4016207666260109177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Sonic Advance 3 - Sunset Hill_142
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 3
+        width: 71
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7adc0691af80c150800000000000000
+      internalID: 5890866236770540158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Sonic Advance 3 - Sunset Hill_143
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 3
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02782a4a1e3b6af10800000000000000
+      internalID: 2280708043020863264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Sonic Advance 3 - Sunset Hill_144
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 3
+        width: 120
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce2b6fd70dc300cb0800000000000000
+      internalID: -4899849528414915860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
